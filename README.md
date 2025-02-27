@@ -4,12 +4,10 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Eierlege-Automat Deluxe
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Unser bunten Eierlege-Revolver kann auf Knopfdruck ein Ei legen. Der Automat kann genauso gut mit Süßigkeiten wie mit Hühnereiern geladen werden.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Insgesamt passen sechs 10 cm lange Eier in das Magazin. Auf Knopfdruck wird eines davon „gelegt“, indem sich das innere Magazin dreht und die Kammer, in der sich das Ei befindet, eine nach unten gerichtete Öffnung erreicht. Hier findet ihr die SVG-Dateien, die zum Nachbau des Eier-Revolvers benötigt werden. Die Bauanleitung ist in Make 2/25 erschienen.
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
-
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
